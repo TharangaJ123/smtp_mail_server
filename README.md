@@ -30,4 +30,4 @@ This is a simple Node.js-based email server using SMTP and [Nodemailer](https://
 
 ```bash
 git clone https://github.com/yourusername/email-server.git
-cd email-server
+cd server
